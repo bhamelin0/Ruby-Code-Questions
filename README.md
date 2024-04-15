@@ -1,1 +1,1 @@
-Simple repo to store results for code interview practice and learn the basics of Ruby at the same time.
+Simple repo to store results to learn the basics of Ruby through basic puzzle questions.
